@@ -1,0 +1,9 @@
+bin/
+obj/
+publish/
+TestResults/
+.vs/
+*.user
+
+# Local benchmark reports list files on the author's machine
+docs/evidence/
